@@ -31,7 +31,7 @@ body {
 </style>
 </head>
 <body>
-	<h3> YouTube Transcriber Bookmarklet</h3>
+	<h3> YouTube Transcriber</h3>
 Drag the below "link" into the bookmark bar in any browser.
 Then when you're viewing a YouTube video, click it to view the transcription of the video.
 
